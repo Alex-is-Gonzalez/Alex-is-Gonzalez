@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Nextjs, MongoDB, Heroku, Stripe</strong> A fullstack app for ordering food online.</p>
+        <p><strong>HTML5, CSS3, Javascript, Nextjs, MongoDB, Heroku, Stripe</strong>- A fullstack app for ordering food online.</p>
     </td>
   </tr>
 </table>
