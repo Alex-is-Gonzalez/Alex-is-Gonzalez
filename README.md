@@ -51,7 +51,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Alex-is-Gonzalez.io</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://github.com/Alex-is-Gonzalez/Alex-is-Gonzalez.github.io">
           <img src="images/port.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
