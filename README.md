@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3 </strong> - Portfolio Site including links to my projects and ways to contract myself for your next project.</p>
+        <p><strong>HTML5, CSS3 </strong> - My old portfolio site, great to see the growth from my previous code</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ivy</h3>
@@ -76,9 +76,9 @@
           
   <a href="https://github.com/Alex-is-Gonzalez/Food_Order-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+<!--   </a>
   <a href="https://mysterious-cliffs-25536.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript, Nextjs, MongoDB, Heroku, Stripe</strong>- A fullstack app for ordering food online.</p>
