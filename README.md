@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis Gonzalez.</h1>
 <h3 align="center">A FullStack Engineer from Los Angeles, California.</h3>
 
-<p align="center">Previously a premedical student, I was motivated by the power of technology as a tool that positively impacted and saved lives. Due to this, I transitioned to Fullstack Engineering to be part of the innovation! Visit <a href="https://alex-is-gonzalez.github.io/index.html">my website </a> for more information!
+<p align="center">Previously a premedical student, I was motivated by the power of technology as a tool that positively impacted and saved lives. Due to this, I transitioned to Fullstack Engineering to be part of the innovation! Visit <a href="https://vercel-react-app-black.vercel.app/">my website </a> for more information!
 </p>
 <hr/>
 
