@@ -5,7 +5,7 @@
 
 <!-- 🌊 HEADER WAVE -->
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Header Wave"/>
+  <img src="./header.svg" height="20%" alt="Header Wave"/>
 </p>
 
 <h1 align="center">Hi I'm <span style="color:#CADD57;">Alexis Gonzalez</span></h1>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧑 Professional Background
+## Professional Background
 
 I'm a **Fullstack Engineer and Technical Instructor** with experience leading and supporting engineering programs at organizations like  
 **Snap Inc.**, **The Knowledge House**, and **Program Equity**.
@@ -82,7 +82,7 @@ My work spans teaching, open-source leadership, and software development using t
 
 ---
 
-<!-- 🌊 FOOTER WAVE -->
+<!--  FOOTER WAVE -->
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Footer Wave"/>
+  <img src="./header1.svg" width="100%" alt="Footer Wave"/>
 </p>
