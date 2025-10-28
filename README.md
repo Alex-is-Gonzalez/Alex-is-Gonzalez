@@ -1,97 +1,70 @@
-<h1 align="center">Hi 👋, I'm Alexis Gonzalez.</h1>
-<h3 align="center">A FullStack Engineer from Los Angeles, California.</h3>
+<div style="font-family: 'Inter', sans-serif; background-color: #000; color: #e0e0e0; padding: 30px; border-radius: 12px; line-height: 1.6;">
 
-<p align="center">Previously a premedical student, I was motivated by the power of technology as a tool that positively impacted and saved lives. Due to this, I transitioned to Fullstack Engineering to be part of the innovation! Visit <a href="https://vercel-react-app-black.vercel.app/">my website </a> for more information!
-</p>
-<hr/>
+  <h1 align="center" style="color: #00ff99; font-size: 2.5em; margin-bottom: 0;">👋 Hi, I'm Alexis Gonzalez</h1>
+  <h3 align="center" style="color: #ffffff; font-weight: 400; margin-top: 5px;">Fullstack Engineer | Technical Instructor | Program Director</h3>
+  <h4 align="center" style="color: #aaaaaa; margin-top: 5px;">Based in Los Angeles, California</h4>
 
-<h1 align="center"> Highlighted Projects</h1>
-<table bordercolor="ffffff">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Book Tracker</h3>
-        <br />
-        <a target="_blank" href="https://msreader.netlify.app/">
-            <img src="images/teach.png" width="100%" alt="Book App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Alex-is-Gonzalez/Mr.Reader" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://msreader.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS3, HTML5 </strong> - Platform to help third grade students track the books they have read during the school year.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">React Banking App</h3>
-        <br />
-      <a target="_blank" href="http://alexis-gonzalez-banking-app.s3-website-us-west-1.amazonaws.com/#/">
-            <img src="images/bank.png" width="100%"  alt="React Banking App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Alex-is-Gonzalez/Bad_Bank" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://alexis-gonzalez-banking-app.s3-website-us-west-1.amazonaws.com/#/">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, React, CSS5, Bootstrap</strong> - The Frontend of an app called BadBank.This app is a single page application which uses React to maintain the state of the Bad Bank App</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Alex-is-Gonzalez.io</h3>
-      <br />
-        <a target="_blank" href="https://github.com/Alex-is-Gonzalez/Alex-is-Gonzalez.github.io">
-          <img src="images/port.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/Alex-is-Gonzalez/Alex-is-Gonzalez.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://alex-is-gonzalez.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3 </strong> - My old portfolio site, great to see the growth from my previous code</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ivy</h3>
-        <br />
-        <a target="_blank" href='https://mysterious-cliffs-25536.herokuapp.com/'>
-          <img src="images/ivy-1.png" width="100%" alt="Ivy App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Alex-is-Gonzalez/Food_Order-" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-<!--   </a>
-  <a href="https://mysterious-cliffs-25536.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=orange&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Nextjs, MongoDB, Heroku, Stripe</strong>- A fullstack app for ordering food online.</p>
-    </td>
-  </tr>
-</table>
+  <p align="center" style="max-width: 700px; margin: 20px auto; font-size: 1.1em;">
+    Passionate about building scalable web applications and mentoring the next generation of engineers.  
+    I transitioned from a premedical background to software engineering after witnessing how technology can improve lives through innovation.  
+    <br/><br/>
+    <a href="https://vercel-react-app-black.vercel.app/" style="color: #00ff99; text-decoration: none; font-weight: bold;">🌐 Visit my portfolio</a>
+  </p>
+
+  <hr style="border: 1px solid #222; margin: 40px 0;" />
+
+  <h2 style="color: #00ff99;">💼 Professional Background</h2>
+
+  <p>
+    I'm a <strong>Fullstack Engineer and Technical Instructor</strong> with experience leading and supporting engineering programs at organizations like 
+    <strong>Snap Inc.</strong>, <strong>The Knowledge House</strong>, and <strong>Program Equity</strong>.  
+    My work spans teaching, open-source leadership, and software development using technologies like 
+    <strong>React</strong>, <strong>Node.js</strong>, <strong>Express</strong>, <strong>Next.js</strong>, <strong>MongoDB</strong>, <strong>Supabase</strong>, and <strong>React Native</strong>.
+  </p>
+
+  <ul style="margin-top: 15px; list-style: none; padding: 0;">
+    <li>🌟 <strong>Snap Inc – Engineering Academy Instructor:</strong> Delivered fullstack and AI integration curricula using React, React Native, and APIs; achieved 100% student retention.</li>
+    <li>🌿 <strong>Program Equity – Director of Open Source Fellowship:</strong> Led open-source initiatives, managed 80+ fellows, and implemented process improvements that increased program efficiency.</li>
+    <li>💡 <strong>The Knowledge House – Web Dev TA:</strong> Provided live debugging, curriculum support, and mentorship, increasing retention by 15%.</li>
+    <li>🚀 <strong>Next Shift Learning – Engineering Consultant:</strong> Designed scalable technical assessments and learning materials for engineering candidates.</li>
+  </ul>
+
+  <hr style="border: 1px solid #222; margin: 40px 0;" />
+
+  <h2 style="color: #00ff99;">🧠 Technical Skills</h2>
+  <p>
+    <strong>Languages:</strong> JavaScript (ES6+), HTML5, CSS3<br/>
+    <strong>Frontend:</strong> React, Next.js, Bootstrap, Tailwind CSS<br/>
+    <strong>Backend:</strong> Node.js, Express.js, Supabase, MongoDB, SQL, Prisma<br/>
+    <strong>Dev Tools:</strong> Git, GitHub, Docker, Postman, AWS, Heroku<br/>
+    <strong>Other:</strong> RESTful APIs, Test-Driven Development, Agile Instruction, Curriculum Design
+  </p>
+
+  <p align="left" style="margin-top: 20px;">
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="margin-right: 10px; background-color: white; border-radius: 6px;"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="margin-right: 10px; background-color: white; border-radius: 6px;"/></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  </p>
+
+  <hr style="border: 1px solid #222; margin: 40px 0;" />
+
+  <h2 style="color: #00ff99;">🤝 Connect With Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/alexis-gonzalez-866801125" target="_blank" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" style="vertical-align: middle;"/>
+      <span style="color: #00ff99; font-weight: bold; margin-left: 10px;">LinkedIn</span>
+    </a>
+  </p>
+
+</div>
 
 
-<h1 align="center">Connect With Me</h1>
-<p align="center">
-<a href="https://twitter.com/go_n_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="go_n_code" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-gonzalez-866801125/?trk=profile-badge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-gonzalez-866801125/?trk=profile-badge" height="30" width="40" /></a>
-</p>
 
-<h1 align="center">Technologies</h1>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
