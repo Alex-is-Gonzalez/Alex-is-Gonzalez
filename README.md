@@ -9,6 +9,16 @@
 </p>
 
 <h1 align="center">Hi I'm <span style="color:#CADD57;">Alexis Gonzalez</span></h1>
+<p align="center">
+  <a href="https://vercel-react-app-black.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CADD57&style=for-the-badge&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alex-is-gonzalez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=CADD57&style=for-the-badge&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://docs.google.com/document/d/16Bzf8vNnl4_KxHOF5UJ4iP3fhZLWmia_YAz8VQPMKcI/edit?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=CADD57&style=for-the-badge&logo=google-drive&logo-color=white"/>
+  </a>
 <h3 align="center">Fullstack Engineer | Technical Instructor | Program Director</h3>
 <h4 align="center">📍 Based in Los Angeles, California</h4>
 
@@ -21,13 +31,13 @@
 
 <p align="center">
   <a href="https://vercel-react-app-black.vercel.app/">
-     <b>Visit my portfolio</b>
+     <b>Visit my Portfolio</b>
   </a>
 </p>
 
 ---
 
-## Professional Background
+<h2 align="center" > Professional Background </h2>
 
 I'm a **Fullstack Engineer and Technical Instructor** with experience leading and supporting engineering programs at organizations like  
 **Snap Inc.**, **The Knowledge House**, and **Program Equity**.
@@ -60,27 +70,49 @@ My work spans teaching, open-source leadership, and software development using t
 
 ---
 
-## Technical Skills
+<h2 align="center" >  Technical Skills </h2>
 
-**Languages:** JavaScript (ES6+), HTML5, CSS  
-**Frontend:** React, Next.js, Bootstrap, Tailwind CSS  
-**Backend:** Node.js, Express.js, Supabase, MongoDB, SQL, Prisma  
-**Dev Tools:** Git, GitHub, Docker, Postman, AWS, Heroku  
-**Other:** RESTful APIs, Test-Driven Development, Agile Instruction, Curriculum Design
+**Languages:** JavaScript (ES6+), HTML5, CSS, Python
 
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexis-gonzalez-866801125" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
-  </a>
-  <br/>
-  <b><a href="https://www.linkedin.com/in/alexis-gonzalez-866801125" style="color:#CADD57;">LinkedIn</a></b>
+<p >
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=282c34&style=social&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS&color=282c34&style=social&logo=css"/>
+     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=282c34&style=social&logo=javascript"/>
+         <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=282c34&style=social&logo=python"/>
 </p>
 
----
+**Frontend:** React, Next.js, Bootstrap, Tailwind CSS
+
+<p>
+ <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=282c34&style=social&logo=react"/>
+ <img src="https://img.shields.io/static/v1?label=|&message=Next.JS&color=282c34&style=social&logo=next.js"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=tailwind&color=282c34&style=social&logo=tailwind-css"/>
+     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=282c34&style=social&logo=bootstrap"/>
+</p>
+
+**Backend:** Node.js, Express.js, Supabase, MongoDB, SQL, Prisma
+
+<p>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=282c34&style=social&logo=aws"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=282c34&style=social&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=282c34&style=social&logo=express"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=Supabase&color=282c34&style=social&logo=supabase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=282c34&style=social&logo=firebase"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=Prisma&color=282c34&style=social&logo=prisma"/>
+
+</p>
+
+**Dev Tools:** Git, GitHub, Docker, Postman, Vercel
+
+<p>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=282c34&style=social&logo=git"/>
+     <img src="https://img.shields.io/static/v1?label=|&message=GitHub&color=282c34&style=social&logo=github"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=Docker&color=282c34&style=social&logo=docker"/>
+        <img src="https://img.shields.io/static/v1?label=|&message=Postman&color=282c34&style=social&logo=postman"/>
+         <img src="https://img.shields.io/static/v1?label=|&message=Vercel&color=282c34&style=social&logo=vercel"/>
+</p>
+
+**Other:** Github Actions, RESTful APIs, Test-Driven Development, Agile Instruction, Curriculum Design
 
 <!--  FOOTER WAVE -->
 <p align="center">
